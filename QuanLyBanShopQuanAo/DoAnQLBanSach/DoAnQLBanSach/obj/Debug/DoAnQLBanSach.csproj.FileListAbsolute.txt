@@ -1,0 +1,15 @@
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\bin\Debug\DoAnQLBanSach.exe.config
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\bin\Debug\DoAnQLBanSach.exe
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\bin\Debug\DoAnQLBanSach.pdb
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.csprojAssemblyReference.cache
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.DangNhap.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.Properties.Resources.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.csproj.GenerateResource.cache
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.csproj.CoreCompileInputs.cache
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.exe
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.pdb
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.HomeMain.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.DangKy.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.QLTaiKhoan.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.KhachHang.resources
+D:\Hoc tap\CongNgheNet\DoAnNet\DoAnQLBanSach\DoAnQLBanSach\obj\Debug\DoAnQLBanSach.SanPham.resources
